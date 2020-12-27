@@ -13,7 +13,7 @@ Question answering is a field of natural language processing, that involves meth
 enable computer systems to understand and answer human questions, in natural language.
 It is an area which has many practical and important applications. This project report
 presents the review of question answering from a pedagogical perspective. An overview of
-the learning goals, description of methods for question answering including current stateof-
+the learning goals, description of methods for question answering including current state-of-
 the-art methods, evaluation metrics and the current research progress in this field are
 given. In addition, lecture slides and an assignment for the question answering topic are
 provided. Our aim is to provide a comprehensive overview of the field of question answering
