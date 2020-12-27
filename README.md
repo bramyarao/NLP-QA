@@ -3,7 +3,7 @@
 
 <div style="text-align: justify">
 
-This is a class project for the course 'Computational Linguistics I' at UBC. We worked in a group of 2 people and wrote a report. This is a Pedagogical Project which aims at teaching a particular topic in NLP, so in addition to the report, a lecture presentation and sample homework in also provided.
+This is a class project for the course 'Computational Linguistics I' at UBC. We worked in a group of 2 people and wrote a report. This is a Pedagogical Project which aims at teaching a particular topic in NLP, so in addition to the report, a lecture presentation and sample homework (which includes a coding problem) in also provided.
  <br/>
  
 Abstract is given below: 
