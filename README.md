@@ -3,7 +3,7 @@
 
 <div style="text-align: justify">
 
-This is a class project for the course 'Computational Linguistics I' at UBC. We worked in a group of 2 people and wrote a report. This is a Pedagogical Project which aims at teaching a particular topic in NLP, so in addition to the report, a lecture presentation and sample homework (which includes a coding problem) in also provided.
+This is a class project for the course 'Computational Linguistics I' at UBC. We worked in a group of 2 people and wrote a report. This is a Pedagogical Project which aims at teaching a particular topic in NLP, so in addition to the report, a lecture presentation and a sample homework (which includes a coding problem) is also provided.
  <br/>
  
 Abstract is given below: 
@@ -13,8 +13,8 @@ Question answering is a field of natural language processing, that involves meth
 enable computer systems to understand and answer human questions, in natural language.
 It is an area which has many practical and important applications. This project report
 presents the review of question answering from a pedagogical perspective. An overview of
-the learning goals, description of methods for question answering including current stateof-
-the-art methods, evaluation metrics and the current research progress in this field are
+the learning goals, description of methods for question answering including current state-of-the-art methods, 
+evaluation metrics and the current research progress in this field are
 given. In addition, lecture slides and an assignment for the question answering topic are
 provided. Our aim is to provide a comprehensive overview of the field of question answering
 theoretically and look for future directions from a research point of view. In conclusion,
